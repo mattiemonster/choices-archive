@@ -1,0 +1,25 @@
+Font SecondTextFont has been converted to font family Arial (Bold). Font has been regenerated, small inconsistencies may occur.
+Converting GML script : ${project_dir}\objects\obj_manager_menu\Create_0.gml
+Converted string : line 80 : "A STREETLAMP. IT'S ON." -> "A STREETLAMP. IT\'S ON."
+Converted string : line 81 : "A STREETLAMP. IT'S OFF." -> "A STREETLAMP. IT\'S OFF."
+Converted string : line 82 : "A STREETLAMP. IT'S FLICKERING." -> "A STREETLAMP. IT\'S FLICKERING."
+Converted string : line 83 : "THIS BUILD IS A TWITTER DEMO. SOME LEVELS AREN'T HERE." -> "THIS BUILD IS A TWITTER DEMO. SOME LEVELS AREN\'T HERE."
+
+Converting GML script : ${project_dir}\objects\obj_thatsit\Mouse_1.gml
+Converted string : line 1 : "THAT'S IT SO FAR!" -> "THAT\'S IT SO FAR!"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+game speed set to 30
+added compatibility script action/action_another_room.gml
+added compatibility script action/action_end_game.gml
+added compatibility script action/action_end_sound.gml
+added compatibility script action/action_load_game.gml
+added compatibility script action/action_message.gml
+added compatibility script action/action_save_game.gml
+added compatibility script action/action_sound.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script action/__init_action.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml
