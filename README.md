@@ -1,4 +1,4 @@
-# choices-archive
+# Choices Archive
 Archive of my old game 'CHOICES' game files and builds
 
 I decided to create this after I posted a blog post about this game, and how it was never finished.
